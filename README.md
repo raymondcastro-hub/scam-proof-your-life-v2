@@ -15,8 +15,14 @@ The original project was intended to be accessed through a QR code on a fake bak
 
 ## Development
 
-To start a local development server and build the project, run:
+To start a local development server, run:
+
 ```bash
 ng serve
+```
+
+To build the project for production, run:
+
+```bash
 ng build
 ```
