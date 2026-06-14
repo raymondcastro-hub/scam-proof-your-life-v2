@@ -1,6 +1,6 @@
 /* Highlighted text */
 .highlight {
-    color: #fd5a8e;
+    color: #fe84a4;
     font-family: 'Pacifico', cursive;
 }
 
@@ -11,7 +11,7 @@ a {
 }
 
 a:hover {
-    color: #fd5a8e;
+    color: #fe84a4;
     opacity: 0.85;
 }
 
