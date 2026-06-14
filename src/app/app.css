@@ -6,12 +6,13 @@
 
 /* Links */
 a {
-    color: #fd5a8e;
-    text-decoration: underline;
+    color: #000000;
+    transition: color 0.2s ease, opacity 0.2s ease;
 }
 
-a {
-    opacity: 0.8;
+a:hover {
+    color: #fd5a8e;
+    opacity: 0.85;
 }
 
 /* Headings */
@@ -29,7 +30,7 @@ h2 {
 /* Event information banner */
 .warning-message {
     text-align: center;
-    background-color: #ffddab;
+    background-color: #fdf4d7;
     color: #000000;
     padding: 20px;
     border-radius: 8px;
