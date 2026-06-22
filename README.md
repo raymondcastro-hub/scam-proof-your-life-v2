@@ -6,7 +6,7 @@ This web application was originally created in March 2025 to promote the phishin
 
 This repository is a revamp of the original repository with a similar name and was created to showcase newer web development skills using Angular.
 
-The original project was intended to be accessed through a QR code on a fake bake sale flyer, encouraging students and staff who fell for the mock scam to sign up for the event through a Google Form. Updated versions of this flyer, the event flyers, and the presentation are now included in the repository (original credits below). The fake bake sale flyer serves as a practical demonstration of how social engineering tactics can be used to gain trust and encourage interaction.
+The original project was intended to be accessed through a QR code on a fake bake sale flyer, encouraging students and staff who fell for the mock scam to sign up for the event through a Google Form. Updated versions of this flyer, the event flyers, and the presentation are now included in the repository in the `materials` folder (original credits below). The fake bake sale flyer serves as a practical demonstration of how social engineering tactics can be used to gain trust and encourage interaction.
 
 Feel free to use this as a reference if you are running your own phishing awareness event.
 
